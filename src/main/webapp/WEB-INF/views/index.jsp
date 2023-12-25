@@ -4,9 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>테스트</title>
 </head>
 <body>
-<h1>Hi 기본 페이지 입니다.</h1>
+<h1>Hi 기본 페이지 입니다..</h1>
 </body>
-</html>
